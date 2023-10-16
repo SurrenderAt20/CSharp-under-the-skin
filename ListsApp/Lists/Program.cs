@@ -29,3 +29,27 @@ List<string> lastNames = data.Split(',').ToList();
 lastNames.Add("ipson");
 lastNames.Add("carey");
 lastNames.Add("pippi");
+
+Console.WriteLine(lastNames[lastNames.Count - 1]);
+
+
+string groceryData = "Eggs,Pasta,Break,Cheese,Milk";
+List <string> gData = groceryData.Split(",").ToList();
+gData.Add("chips");
+gData.Add("sweets");
+
+Console.WriteLine(gData[gData.Count -3]);
+
+List<string> cars = new List<string>();
+cars.Add("Mercedes");
+cars.Add("Lambo");
+cars.Add("Ferrari");
+cars.Add("Porsche");
+
+Console.WriteLine(cars[cars.Count -2]);
+
+//testing the created list in a foreach
+foreach (string car in cars)
+{
+    Console.WriteLine(car);
+}
