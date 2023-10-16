@@ -1,0 +1,15 @@
+C:\Users\lasse\source\repos\dateTimeVariableApp\dateTimeVariable\bin\Debug\net6.0\dateTimeVariable.exe
+C:\Users\lasse\source\repos\dateTimeVariableApp\dateTimeVariable\bin\Debug\net6.0\dateTimeVariable.deps.json
+C:\Users\lasse\source\repos\dateTimeVariableApp\dateTimeVariable\bin\Debug\net6.0\dateTimeVariable.runtimeconfig.json
+C:\Users\lasse\source\repos\dateTimeVariableApp\dateTimeVariable\bin\Debug\net6.0\dateTimeVariable.dll
+C:\Users\lasse\source\repos\dateTimeVariableApp\dateTimeVariable\bin\Debug\net6.0\dateTimeVariable.pdb
+C:\Users\lasse\source\repos\dateTimeVariableApp\dateTimeVariable\obj\Debug\net6.0\dateTimeVariable.csproj.AssemblyReference.cache
+C:\Users\lasse\source\repos\dateTimeVariableApp\dateTimeVariable\obj\Debug\net6.0\dateTimeVariable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lasse\source\repos\dateTimeVariableApp\dateTimeVariable\obj\Debug\net6.0\dateTimeVariable.AssemblyInfoInputs.cache
+C:\Users\lasse\source\repos\dateTimeVariableApp\dateTimeVariable\obj\Debug\net6.0\dateTimeVariable.AssemblyInfo.cs
+C:\Users\lasse\source\repos\dateTimeVariableApp\dateTimeVariable\obj\Debug\net6.0\dateTimeVariable.csproj.CoreCompileInputs.cache
+C:\Users\lasse\source\repos\dateTimeVariableApp\dateTimeVariable\obj\Debug\net6.0\dateTimeVariable.dll
+C:\Users\lasse\source\repos\dateTimeVariableApp\dateTimeVariable\obj\Debug\net6.0\refint\dateTimeVariable.dll
+C:\Users\lasse\source\repos\dateTimeVariableApp\dateTimeVariable\obj\Debug\net6.0\dateTimeVariable.pdb
+C:\Users\lasse\source\repos\dateTimeVariableApp\dateTimeVariable\obj\Debug\net6.0\dateTimeVariable.genruntimeconfig.cache
+C:\Users\lasse\source\repos\dateTimeVariableApp\dateTimeVariable\obj\Debug\net6.0\ref\dateTimeVariable.dll

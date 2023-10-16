@@ -1,0 +1,15 @@
+C:\Users\lasse\source\repos\HomeWorkVariablesApp\HomeWorkVariables\bin\Debug\net6.0\HomeWorkVariables.exe
+C:\Users\lasse\source\repos\HomeWorkVariablesApp\HomeWorkVariables\bin\Debug\net6.0\HomeWorkVariables.deps.json
+C:\Users\lasse\source\repos\HomeWorkVariablesApp\HomeWorkVariables\bin\Debug\net6.0\HomeWorkVariables.runtimeconfig.json
+C:\Users\lasse\source\repos\HomeWorkVariablesApp\HomeWorkVariables\bin\Debug\net6.0\HomeWorkVariables.dll
+C:\Users\lasse\source\repos\HomeWorkVariablesApp\HomeWorkVariables\bin\Debug\net6.0\HomeWorkVariables.pdb
+C:\Users\lasse\source\repos\HomeWorkVariablesApp\HomeWorkVariables\obj\Debug\net6.0\HomeWorkVariables.csproj.AssemblyReference.cache
+C:\Users\lasse\source\repos\HomeWorkVariablesApp\HomeWorkVariables\obj\Debug\net6.0\HomeWorkVariables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lasse\source\repos\HomeWorkVariablesApp\HomeWorkVariables\obj\Debug\net6.0\HomeWorkVariables.AssemblyInfoInputs.cache
+C:\Users\lasse\source\repos\HomeWorkVariablesApp\HomeWorkVariables\obj\Debug\net6.0\HomeWorkVariables.AssemblyInfo.cs
+C:\Users\lasse\source\repos\HomeWorkVariablesApp\HomeWorkVariables\obj\Debug\net6.0\HomeWorkVariables.csproj.CoreCompileInputs.cache
+C:\Users\lasse\source\repos\HomeWorkVariablesApp\HomeWorkVariables\obj\Debug\net6.0\HomeWorkVariables.dll
+C:\Users\lasse\source\repos\HomeWorkVariablesApp\HomeWorkVariables\obj\Debug\net6.0\refint\HomeWorkVariables.dll
+C:\Users\lasse\source\repos\HomeWorkVariablesApp\HomeWorkVariables\obj\Debug\net6.0\HomeWorkVariables.pdb
+C:\Users\lasse\source\repos\HomeWorkVariablesApp\HomeWorkVariables\obj\Debug\net6.0\HomeWorkVariables.genruntimeconfig.cache
+C:\Users\lasse\source\repos\HomeWorkVariablesApp\HomeWorkVariables\obj\Debug\net6.0\ref\HomeWorkVariables.dll

@@ -1,0 +1,14 @@
+C:\Users\lasse\source\repos\HomeWorkConditionalApp\HomeWorkConditional\bin\Debug\net6.0\HomeWorkConditional.exe
+C:\Users\lasse\source\repos\HomeWorkConditionalApp\HomeWorkConditional\bin\Debug\net6.0\HomeWorkConditional.deps.json
+C:\Users\lasse\source\repos\HomeWorkConditionalApp\HomeWorkConditional\bin\Debug\net6.0\HomeWorkConditional.runtimeconfig.json
+C:\Users\lasse\source\repos\HomeWorkConditionalApp\HomeWorkConditional\bin\Debug\net6.0\HomeWorkConditional.dll
+C:\Users\lasse\source\repos\HomeWorkConditionalApp\HomeWorkConditional\bin\Debug\net6.0\HomeWorkConditional.pdb
+C:\Users\lasse\source\repos\HomeWorkConditionalApp\HomeWorkConditional\obj\Debug\net6.0\HomeWorkConditional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lasse\source\repos\HomeWorkConditionalApp\HomeWorkConditional\obj\Debug\net6.0\HomeWorkConditional.AssemblyInfoInputs.cache
+C:\Users\lasse\source\repos\HomeWorkConditionalApp\HomeWorkConditional\obj\Debug\net6.0\HomeWorkConditional.AssemblyInfo.cs
+C:\Users\lasse\source\repos\HomeWorkConditionalApp\HomeWorkConditional\obj\Debug\net6.0\HomeWorkConditional.csproj.CoreCompileInputs.cache
+C:\Users\lasse\source\repos\HomeWorkConditionalApp\HomeWorkConditional\obj\Debug\net6.0\HomeWorkConditional.dll
+C:\Users\lasse\source\repos\HomeWorkConditionalApp\HomeWorkConditional\obj\Debug\net6.0\refint\HomeWorkConditional.dll
+C:\Users\lasse\source\repos\HomeWorkConditionalApp\HomeWorkConditional\obj\Debug\net6.0\HomeWorkConditional.pdb
+C:\Users\lasse\source\repos\HomeWorkConditionalApp\HomeWorkConditional\obj\Debug\net6.0\HomeWorkConditional.genruntimeconfig.cache
+C:\Users\lasse\source\repos\HomeWorkConditionalApp\HomeWorkConditional\obj\Debug\net6.0\ref\HomeWorkConditional.dll

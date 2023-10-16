@@ -1,0 +1,14 @@
+C:\Users\lasse\source\repos\DoWhileHomeworkApp\DoWhileHomework\bin\Debug\net6.0\DoWhileHomework.exe
+C:\Users\lasse\source\repos\DoWhileHomeworkApp\DoWhileHomework\bin\Debug\net6.0\DoWhileHomework.deps.json
+C:\Users\lasse\source\repos\DoWhileHomeworkApp\DoWhileHomework\bin\Debug\net6.0\DoWhileHomework.runtimeconfig.json
+C:\Users\lasse\source\repos\DoWhileHomeworkApp\DoWhileHomework\bin\Debug\net6.0\DoWhileHomework.dll
+C:\Users\lasse\source\repos\DoWhileHomeworkApp\DoWhileHomework\bin\Debug\net6.0\DoWhileHomework.pdb
+C:\Users\lasse\source\repos\DoWhileHomeworkApp\DoWhileHomework\obj\Debug\net6.0\DoWhileHomework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lasse\source\repos\DoWhileHomeworkApp\DoWhileHomework\obj\Debug\net6.0\DoWhileHomework.AssemblyInfoInputs.cache
+C:\Users\lasse\source\repos\DoWhileHomeworkApp\DoWhileHomework\obj\Debug\net6.0\DoWhileHomework.AssemblyInfo.cs
+C:\Users\lasse\source\repos\DoWhileHomeworkApp\DoWhileHomework\obj\Debug\net6.0\DoWhileHomework.csproj.CoreCompileInputs.cache
+C:\Users\lasse\source\repos\DoWhileHomeworkApp\DoWhileHomework\obj\Debug\net6.0\DoWhileHomework.dll
+C:\Users\lasse\source\repos\DoWhileHomeworkApp\DoWhileHomework\obj\Debug\net6.0\refint\DoWhileHomework.dll
+C:\Users\lasse\source\repos\DoWhileHomeworkApp\DoWhileHomework\obj\Debug\net6.0\DoWhileHomework.pdb
+C:\Users\lasse\source\repos\DoWhileHomeworkApp\DoWhileHomework\obj\Debug\net6.0\DoWhileHomework.genruntimeconfig.cache
+C:\Users\lasse\source\repos\DoWhileHomeworkApp\DoWhileHomework\obj\Debug\net6.0\ref\DoWhileHomework.dll
