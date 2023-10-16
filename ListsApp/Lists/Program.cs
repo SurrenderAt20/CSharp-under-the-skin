@@ -53,3 +53,45 @@ foreach (string car in cars)
 {
     Console.WriteLine(car);
 }
+
+
+//static approach
+List<string> studentsstat = new List<string>();
+studentsstat.Add("Pernille");
+studentsstat.Add("Lasse");
+studentsstat.Add("Morten");
+studentsstat.Add("Christian");
+studentsstat.Add("Mikkel");
+studentsstat.Add("Sassi");
+studentsstat.Add("done");
+
+int studentCountStat = studentsstat.Count;
+Console.WriteLine($"This is the student count: {studentCountStat}");
+
+//dynamic approach
+
+List<string> students = new List<string>();
+
+do
+{
+    Console.WriteLine("Enter student name or 'done' when no more values");
+    string studentName = Console.ReadLine();
+    if (studentName == "done")
+    {
+        Console.WriteLine("This is all students needed to be added to the roster!");
+        break;
+    }
+    students.Add(studentName);
+
+} while (true);
+
+int studentCount = students.Count;
+Console.WriteLine($"The student count for the roster is the following: {studentCount}");
+
+//all student names in a foreach loop
+foreach (string student in students)
+{
+    Console.WriteLine($"This are all the student names added to the roster: {student}");
+}
+
+
