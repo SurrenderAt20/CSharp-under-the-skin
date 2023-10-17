@@ -94,4 +94,31 @@ foreach (string student in students)
     Console.WriteLine($"This are all the student names added to the roster: {student}");
 }
 
+for (int i = 0; i < studentCount; i++)
+{
+    Console.WriteLine(students[i]);
+}
+
+
+List<string> members = new List<string>();
+
+do
+{
+
+    Console.WriteLine("Add the name of the member or value 'done' if you wish to end");
+    string membersname = Console.ReadLine();
+
+    if (membersname == "done")
+    {
+        Console.WriteLine("All members added - closing application");
+        break;
+    }
+
+    members.Add(membersname);
+
+} while (true);
+
+int membersCount = members.Count;
+Console.WriteLine($"This is all I need for the count and the count is: {membersCount}");
+
 
