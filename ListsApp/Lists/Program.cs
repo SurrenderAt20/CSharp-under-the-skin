@@ -121,4 +121,29 @@ do
 int membersCount = members.Count;
 Console.WriteLine($"This is all I need for the count and the count is: {membersCount}");
 
+List <string> animals = new List<string>();
+
+do
+{
+    Console.WriteLine("Enter the animal name or 'done' when there are no more values you wish to insert");
+    string animalsname = Console.ReadLine();
+
+    if (animalsname == "done")
+    {
+        Console.WriteLine("All animals has been added");
+        break;
+    }
+
+    animals.Add(animalsname);
+
+} while (true);
+
+int animalsCount = animals.Count;
+Console.WriteLine($"Total amount of animals are: {animalsCount}");
+
+for (int i = 0;i < animalsCount; i++)
+{
+    Console.WriteLine(animals[i]);
+}
+
 
