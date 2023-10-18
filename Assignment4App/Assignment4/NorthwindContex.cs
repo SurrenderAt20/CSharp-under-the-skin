@@ -7,6 +7,7 @@ public class NorthwindContex : DbContext
     public DbSet<Category> Categories { get; set; }
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
     {
+        optionsBuilder.EnableSensitiveDataLogging();
         optionsBuilder.LogTo(Console.Out.WriteLine, Microsoft.Extensions.Logging.LogLevel.Information);
         optionsBuilder.UseNpgsql("host=localhost;db=northwind;uid=postgres;pwd=madkasse");
     }
