@@ -5,9 +5,25 @@ using Microsoft.EntityFrameworkCore;
 
 var db = new NorthwindContex();
 
-foreach (var category in db.Categories.Where(x => x.Id > 5))
+// Category category = CreateCategory(db);
+
+foreach (var entity in db.Categories)
 {
     Console.WriteLine(category);
+}
+
+static Category CreateCategory(NorthwindContex db)
+{
+    var category = new Category
+    {
+        Id = 102,
+        Name = "Test Data Name2",
+        Description = "Test Data object2"
+    };
+
+    db.Add(category);
+    db.SaveChanges();
+    return category;
 }
 
 
